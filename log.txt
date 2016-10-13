@@ -1,3 +1,4 @@
 The log file.
 
 first log.
+second log.
